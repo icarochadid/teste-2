@@ -1,0 +1,34 @@
+* {box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+body{
+    background-image: linear-gradient( 90deg, #36B338, #45E648, #8CEA8E);
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.container {
+    background-color: white;
+   text-align: center;
+   margin: 20px 100px 0px 100px;
+   padding: 5px 50px 40px 50px;
+   background: rgba(8, 151, 8, 0.685);
+   border-radius: 40px;
+   box-shadow: 5px 5px 4px black;
+}
+
+.clique{
+    margin: 15px;
+    padding: 20px; padding-left: 40px; padding-right: 40px;
+    border-radius: 50px;
+    box-shadow: 3px 3px 3px black;
+    background-color: white;
+    color: green;
+}
+img {
+    max-width: 500px;
+    max-height: 500px;
+}
